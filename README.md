@@ -8,5 +8,5 @@ Primeiro arquivo - README.md
 Parar rodar esse projeto na sua máquina, por favor digite:
 -> os ``` formatar para copiar a linha entre as aspas. olhar no preview. Formato Markdown é muito comum.
 ```
-npm install react
+node app.js
 ```
